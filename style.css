@@ -1,4 +1,5 @@
 body {
-    background-image: url('./desktop.png'); 
-    /* background-color: lightcyan; */
-  }
+  background-image: url('./desktop.png');
+  /* Optional: To fix the background image */
+  /* background-color: lightcyan; */
+}
